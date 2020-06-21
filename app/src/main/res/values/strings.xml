@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">primer tarea</string>
+
+    <string name="lbl_titulo">REGISTRO</string>
+    <string name="btn_enviar">enviar</string>
+
+    <string name="lbl_nombre">Nombre:</string>
+    <string name="lbl_telefono">Teléfono:</string>
+    <string name="lbl_fecha">Fecha de nacimiento:</string>
+    <string name="lbl_genero">Género:</string>
+
+    <string name="txt_nombre"></string>
+    <string name="txt_telefono"></string>
+    <string name="txt_fecha"></string>
+
+    <string name="rdbt_masculino">Masculino</string>
+    <string name="rdbt_femenino">Femenino</string>
+
+    <string name="lbl_saludo">BIENVENIDO</string>
+
+</resources>
